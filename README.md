@@ -3,7 +3,7 @@
 This binder is is a back up for teaching Software Carpentry Unix shell,
 if someone has an install issue that can't be fixed.
 
-There is no `nano` installed.  Instead you can open a text file using the jupyter interface.
+There is no `nano` installed.  Instead you can open and edit a text file using the jupyter interface, instructions below.
 
 ## To Launch the Terminal
 
