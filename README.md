@@ -1,4 +1,4 @@
-# Software Carpentry Back-up Unix environment
+# Software Carpentry Backup Unix environment
 
 This binder is is a back up for teaching Software Carpentry Unix shell,
 if someone has an install issue that can't be fixed.
